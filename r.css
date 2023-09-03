@@ -31,6 +31,10 @@ html:focus-within {
   scroll-behavior: smooth;
 }
 
+html {
+   color-scheme: dark;
+}
+
 body {
   min-height: 100vh;
   text-rendering: optimizeSpeed;
