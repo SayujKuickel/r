@@ -31,10 +31,10 @@ html:focus-within {
   scroll-behavior: smooth;
 }
 
-html {
+/* html {
    color-scheme: dark;
 }
-
+ */
 body {
   min-height: 100vh;
   text-rendering: optimizeSpeed;
@@ -104,8 +104,8 @@ p {
 
 .grid {
   display: grid;
-  place-items: center;
 }
+
 .flow {
   display: flex;
 }
